@@ -1,0 +1,18 @@
+yaml
+name: notdoni
+symbol: NOTDONI
+decimals: 9
+"description": "NOTDONI is a utility token on the TON blockchain, created to transform digital music payments and royalty management. It powers seamless transactions on the NetDoni platform, supporting content creators and music fans. Key benefits include fast, secure payments, incentivized community engagement, and in-app purchases, fostering a fairer and more transparent ecosystem for music monetization."
+"image": "https://www.notdoni.com/landing/app/img/0928c493-3d3b-47a4-a5c7-be681466bb4e.png"
+"website": "https://api.notdoni.com/notd.html"
+"socials":
+  - platform: "Twitter"
+    link: "https://x.com/notdoni"
+     - platform: Telegram
+    link: https://t.me/notdoni"
+  - platform: YouTube
+    link: https://www.youtube.com/channel/UC4ZxO1NvQWXzfAxd0gujHbw"
+  - platform: Facebook
+    link: https://www.facebook.com/notdoni/"
+  - platform: LinkedIn
+    link: https://www.linkedin.com/company/73010765/admin/dashboard/"
